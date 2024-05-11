@@ -86,10 +86,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 ![1 (1)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/74a7a7ef-8870-4841-8228-372bd9188f0e)
-![1 (2)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/0f4cf2d3-9fb5-4d4c-9f86-7a7bf8998fef)
+![3](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/ce2034e0-56c0-4865-9b32-9c1f5deddeed)
 ![1 (3)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/3eea3c45-4ddf-4449-a35c-df15615162ac)
-![1 (4)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/33465d0a-ae1f-4b94-9091-2321c92613c2)
-![1 (5)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/77c8c22f-21c4-469c-9071-6f6627fa3770)
-![1 (6)](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/96b4ca9e-8dda-4be5-955a-87d95e3b5300)
+![4](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/62ffaa09-0f37-4721-9ed7-baa6fca3150f)
+![5](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/0fa38ffd-cdaa-4c9f-a236-228a4a6c0a05)
+![6](https://github.com/Jayalakshm1/lifecyclemethods/assets/130430542/e2ad3542-6d77-4d7b-aadb-cb62b5b8ee25)
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
